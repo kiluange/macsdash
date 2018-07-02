@@ -14,7 +14,7 @@ export default class Domicilios extends Component{
                 <div class="card-body">
                   <LineChart data={
                     [
-                        ['Mês', 'Vetores'],
+                        ['Mês', 'nº Focos'],
                         [1,  37.8, ],
                         [2,  30.9,],
                         [3,  25.4,],
